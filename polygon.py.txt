@@ -1,0 +1,9 @@
+import math
+def polygon(number_of_sides, length_of_sides):
+    return 1.0/4.0 * number_of_sides * length_of_sides ** 2 / math.tan(math.pi/number_of_sides)
+   
+print polygon(7, 3)
+
+
+
+# ¼ n s2 / tan(p/n).

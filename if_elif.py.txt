@@ -1,0 +1,6 @@
+if 10<1:
+    print "kappa"  
+elif 10>11:
+    print "jnsa"
+elif 10>9:
+    print "oifsib"

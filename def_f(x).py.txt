@@ -1,0 +1,7 @@
+def f(x):
+    return -5 * x ** 5 + 69 * x ** 2 - 47
+print f(0)
+print f(1)
+print f(2)
+print f(3)
+#f(x) = -5 * x ** 5 + 69 * x ** 2 - 47
